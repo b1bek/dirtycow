@@ -17,6 +17,10 @@ Compile with:
 ```bash
 gcc -pthread dirty.c -o dirty -lcrypt
 ```
+If any error then try this and re-compile as above:
+```bash
+PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/lib/gcc/x86_64-linux-gnu/4.8/;export PATH
+```
 
 Then run the newly create binary by either doing:
 ```bash
