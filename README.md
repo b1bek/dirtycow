@@ -7,7 +7,7 @@ After running the exploit you should be able to login with the newly created use
 
 To use this exploit modify the user values according to your needs.
 
-The default user being created is `firefart`.
+The default user being created is `root`.
 
 Original exploit (dirtycow's ptrace_pokedata "pokemon" method):
   https://github.com/dirtycow/dirtycow.github.io/blob/master/pokemon.c
